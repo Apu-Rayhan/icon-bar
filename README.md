@@ -1,4 +1,4 @@
 # icon-bar
 simple icon-bar
 
-https://github.com/Apu-Rayhan/icon-bar
+Live Preview https://apu-rayhan.github.io/icon-bar/
